@@ -1,2 +1,2 @@
 # EEG_Workshop
-Stimulus presentation and EEG analysis for the Wallace Lab EEG Workshops.
+Stimulus presentation and EEG analysis code for the Wallace Lab EEG Workshops.
